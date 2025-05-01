@@ -33,7 +33,6 @@ This project is a Python-based automation script that submits DNA sequences to t
 
 - Install Python 3
 - Install the required packages:
-  
-```bash
-pip install selenium pandas pyautogui
-
+  pyautogui
+  selenium
+  glob
